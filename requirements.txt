@@ -11,7 +11,7 @@ click==8.0.1
 decorator==4.4.2
 flask==1.1.2
 importlib-metadata==3.10.0
-intel-openmp==2021.2.0
+# intel-openmp==2021.2.0
 itsdangerous==2.0.1
 jinja2==3.0.1
 joblib==1.0.1
@@ -29,7 +29,7 @@ joblib==1.0.1
 # ncurses==6.2
 networkx==2.5.1
 numexpr==2.7.3
-numpy==1.20.2
+# numpy==1.20.2
 # numpy-base==1.20.2
 # openssl==1.1.1k
 pandas==1.2.5
